@@ -1,27 +1,34 @@
-The Data Analyst job requires rigor and autonomy.
-It also requires a comprehensive technical background and an understanding of a wide range of issues.
-My experience and training enable me to do just that.
 
-I have a degree in economics and statistics, as well as a diploma in political science, so I started out in the data field 25 years ago. I then chose an individual career path by setting up my own company, before becoming a sales consultant / Business Analyst for various companies over the last 11 years.
-My background and initial training have enabled me to put my analytical and summarising skills to good use.
+Professional Presentation
 
-My assignments have included market research and the successful market introduction of specific products. 
-I have worked in both BtC and BtB, from manufacturer to retailer. 
-Either completely independently, or managing teams of 4 people.
-Each time, I've had to deal with different issues (data, situations, customers).
-This enabled me to gain a great deal of experience of the company and the business approach.
-Experience of detail right through to the global economy.
-All this while developing rigour and autonomy.
+With 24 years' experience in value creation, business development and business support, I am a strategic manager with strong communication and interpretation skills.
 
-In 2023/24, I completed a Data Analyst training course (certificate from Ecole des Mines Paris - PSL Executive Education / Block 3 "Developing an artificial intelligence solution").
+### Key competencies in Value Creation
+- Innovation: Transforming ideas and concepts into concrete projects.
+- Process Optimisation: Improving operational efficiency.
+- Insight Creation: Analysing data to guide decision-making.
+- Interpretation and Decision Making: Using analysis to guide strategies.
+- Strength of Character: Demonstrating determination and leadership.
 
-This completes my career path by developing the skills to process, sort, clean and analyse data.
-The aim is to interpret the results, look for insights and create reports, helping companies to adjust their strategies."
-It was a distance learning course, which also allowed me to test my autonomy.
+### Key Managerial Skills
+- Team Management: Leading and motivating high-performance teams.
+- Setting up sales processes: Structuring and optimising sales processes.
+- Project Management: successfully managing complex projects.
+- Sales Management: Creating brands and optimising sales processes.
+- Production and Logistics Management: Supervising production and the supply chain.
+- Training: Developing team skills and ensuring ongoing training.
 
-The multidisciplinary approach and the importance of storytelling, which are essential in the world of data, enabled me to connect the job of Analyst with my experience of writing, storytelling and my curiosity.
-
-In this way, I've been able to combine the richness of my cross-disciplinary background around the Data Analyst job.
+### Key BackOffice and IT skills
+- Financial Management: Monitoring costs and revenues.
+- HubSpot CRM: Customer relationship management.
+- Information Systems and Monitoring: Monitoring and updating systems.
+- Invoicing and Supplier Management: Efficient management of administrative operations.
+- Needs Identification: Understanding and responding to customer needs.
+- Agile and Kanban Methods: Flexible and efficient project management.
+- Data enhancement: using Tableau to visualise data.
+- Programming: Python and SQL for data analysis.
+- No Code Automation: Using Make and Zapier to automate processes.
+- GenAI and Prompt Engineering: Creation of GPTs and prompt engineering.
 
 <!---
 patrice-droid/patrice-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
